@@ -33,3 +33,9 @@ build/
 *.exe
 *.out
 *.app
+
+# Debug files
+cmake-build-debug/
+
+# ignore .idea
+.idea/
